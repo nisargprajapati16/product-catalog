@@ -1,0 +1,20 @@
+{
+    "PRODUCT_001": {
+        "in_stock_count": "5"
+    },
+    "PRODUCT_002": {
+        "in_stock_count": "1"
+    },
+    "PRODUCT_003": {
+        "in_stock_count": "10"
+    },
+    "PRODUCT_005": {
+        "in_stock_count": "0"
+    },
+    "PRODUCT_006": {
+        "in_stock_count": "7"
+    },
+    "PRODUCT_007": {
+        "in_stock_count": "2"
+    }
+}
